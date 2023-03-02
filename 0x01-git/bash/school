@@ -1,3 +1,5 @@
 
-!/bin/bash
-echo "School"
+[master fcc3891] Starting to code today, so cool
+ 2 files changed, 5 insertions(+)
+ create mode 100644 0x01-git/bash/alx
+ create mode 100644 0x01-git/bash/school
